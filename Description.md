@@ -1,4 +1,7 @@
 # Dialogflow
+## 이 문서에 제대로 포함되지 않은 내용 
+Entity, Dialog 관련 내용, 공식 문서 링크로 대체하였음 (영문)
+
 ## Dialogflow 란?
 자연어 처리 엔진을 이용한 의도 및 성분 분석 서비스
 
@@ -112,11 +115,5 @@ Inline Editor 를 이용하여 Firebase 의 코드를 수정할 수 있음
 
 ## Dialog
 인터랙션 시나리오를 짜기 위해 Linear 혹은 Non-Linear 두가지 방식을 고려할 수 있다.
-
-아래에서는 각각의 방식을 예제와 함께 설명한다.
-
-### Linear Dialog
-Linear Dialog 방식으로 시나리오를 짜기 위해서, slot filling 이라는 기능을 사용한다.
-![RequiredParameterChangeOrder](https://dialogflow.com/docs/images/overview/dialogs/dialogs-003.png?dcb_=0.7100615203328884)
 
 자세한 내용은 [여기](https://dialogflow.com/docs/dialogs#non_linear_dialogs)를 참조
